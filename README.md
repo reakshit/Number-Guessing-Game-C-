@@ -1,1 +1,3 @@
-# Number-Guessing-Game-C-
+# Basic Number-Guessing-Game-C++
+Built for completion of a project in roadmap.sh
+URL - https://roadmap.sh/projects/number-guessing-game
